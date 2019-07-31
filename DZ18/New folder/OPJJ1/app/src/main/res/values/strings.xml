@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OPJJ1</string>
+    <string name="enter_numbers">Unesite brojeve:</string>
+    <string name="btn_calculate">Izračunaj</string>
+    <string name="enter_divisor">Unesite djelitelja</string>
+    <string name="enter_dividend">Unesite djeljenika</string>
+    <string name="enter_text">Unesite tekst</string>
+    <string name="send_back">Pošalji nazad</string>
+    <string name="send_result">Pošalji rezultat</string>
+    <string name="send_to">Prima:</string>
+    <string name="title">Naslov:</string>
+    <string name="message">Poruka:</string>
+    <string name="send_email">pošalji</string>
+    <string name="compose_email">Sastavi poruku</string>
+    <string name="enter_email">Unesite email</string>
+    <string name="error_email">Email nije ispravnog formata!"</string>
+    <string name="error_title">Naslov mora početi velikim početnim slovom</string>
+    <string name="empty_email">Nepotpun unos. Molimo provjerite polja</string>
+    <string name="error_operation">Nedozvoljena operacija</string>
+    <string name="show_user">Show user</string>
+
+    <string name="name_placeholder">Name: %s</string>
+    <string name="surname_placeholder">Surname: %s</string>
+    <string name="phone_placeholder">Phone: %s</string>
+    <string name="email_placeholder">Email: %s</string>
+    <string name="age_placeholder">Age: %d</string>
+</resources>

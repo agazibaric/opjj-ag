@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OPJJ1</string>
+    <string name="enter_numbers">Enter numbers:</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="enter_dividend">Enter dividend</string>
+    <string name="enter_divisor">Enter divisor</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send_back">Send back</string>
+    <string name="send_result">Send result</string>
+    <string name="send_to">Send to:</string>
+    <string name="title">Title:</string>
+    <string name="message">Message:</string>
+    <string name="send_email">send</string>
+    <string name="compose_email">Compose email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="error_email">Email does not have correct format!"</string>
+    <string name="error_title">The title must begin with a upper-case initial letter</string>
+    <string name="empty_email">Incomplete entry. Please check the fields</string>
+    <string name="error_operation">Invalid operation</string>
+</resources>
